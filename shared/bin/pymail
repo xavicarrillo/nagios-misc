@@ -21,8 +21,8 @@ from sys import stdin,exit
 
 def main():
 
-	sender = 'nagios01@gasp2.domain.com'
-	smtpserver = 'nbg2-mx.lan.gasp2.domain.com'
+	sender = ''
+	smtpserver = ''
 	authrequired = 0
 	smtpuser = ''
 	smtppass = '' 

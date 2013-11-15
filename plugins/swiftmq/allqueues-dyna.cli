@@ -1,3 +1,0 @@
-sr router1
-lc sys$queuemanager/usage
-exit

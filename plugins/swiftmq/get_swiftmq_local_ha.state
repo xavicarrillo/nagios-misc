@@ -1,3 +1,0 @@
-INSTANCE=$1
-cat /usr/local/swiftmq/haspool/$INSTANCE/ha.state
-exit $?
